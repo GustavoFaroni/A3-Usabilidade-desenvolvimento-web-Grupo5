@@ -1,6 +1,6 @@
 /* Isso muda a fonte do site todo */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;   
 }
 
 /* 1. Header (Navbar) com fundo AZUL */
@@ -16,7 +16,8 @@ body {
     font-weight: bold;
 }
 
-/* 3. Botões do menu com fundo CINZA e texto ESCURO */
+
+
 .navbar-nav .nav-link {
     background-color: #f8f9fa; /* Fundo cinza claro */
     color: #343a40 !important; /* Texto escuro (preto/cinza) */
@@ -26,13 +27,13 @@ body {
     transition: background-color 0.3s ease;
 }
 
-/* 4. Efeito hover (mouse em cima) dos botões */
+
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
     background-color: #dee2e6; /* Cinza um pouco mais escuro */
 }
 
-/* 5. A seção "Hero" continua com o mesmo azul */
+
 .hero-section {
     background-color: #87CEEB; /* Azul Céu (o mesmo azul do header) */
     color: white; 
@@ -43,18 +44,18 @@ body {
     padding-top: 80px; 
 }
 
-/* 6. Título principal (H1) */
+
 .hero-title {
     font-size: 3.2rem;
     font-weight: 700;
     line-height: 1.2;
 }
 
-/* 7. Ícone do menu "hambúrguer" (para mobile) - agora branco */
+
 .navbar-toggler {
     border-color: transparent;
 }
 .navbar-toggler-icon {
-    /* SVG de ícone branco para aparecer no fundo azul */
+    
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
 }
