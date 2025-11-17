@@ -41,5 +41,5 @@ Como este é um projeto estático, não há necessidade de instalar dependência
 ## 🔗 Links do Projeto
 
 * **Protótipo (Figma):** [Clique aqui para acessar](https://www.figma.com/site/qFgzOrDcXMuEoNNNlKM9oA/A3?node-id=0-1&p=f&t=LoJKRgaZnKaSuAa2-0)
-* **Vídeo de Apresentação:** [Insira o link do YouTube ou Drive aqui]
+* **Vídeo de Apresentação:** [clique aqui para acessar](https://www.youtube.com/watch?v=p27V7x5-cxw)
 * **Repositório GitHub:** [Clique aqui para acessar](https://github.com/GustavoFaroni/A3-Usabilidade-desenvolvimento-web-Grupo5)
