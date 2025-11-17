@@ -37,3 +37,9 @@ Como este é um projeto estático, não há necessidade de instalar dependência
 2.  **Como abrir:**
     * **Opção Simples:** Vá até a pasta do projeto e dê um duplo clique no arquivo `index.html`.
     * **Opção Desenvolvedor:** Se estiver usando o VS Code, instale a extensão "Live Server", clique com o botão direito no `index.html` e selecione "Open with Live Server".
+
+## 🔗 Links do Projeto
+
+* **Protótipo (Figma):** [Clique aqui para acessar](https://www.figma.com/site/qFgzOrDcXMuEoNNNlKM9oA/A3?node-id=0-1&p=f&t=LoJKRgaZnKaSuAa2-0)
+* **Vídeo de Apresentação:** [Insira o link do YouTube ou Drive aqui]
+* **Repositório GitHub:** [Clique aqui para acessar](https://github.com/GustavoFaroni/A3-Usabilidade-desenvolvimento-web-Grupo5)
